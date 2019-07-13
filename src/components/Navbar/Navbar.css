@@ -1,0 +1,14 @@
+nav {
+  height: 100px;
+}
+
+a.brand-logo.center {
+  padding-top: 20px;
+  font-weight: 900;
+  font-size: 70px;
+}
+
+a.newGame {
+  padding-top: 0px;
+  font-size: 15px;
+}
