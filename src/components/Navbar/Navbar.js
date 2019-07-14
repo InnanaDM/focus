@@ -17,8 +17,6 @@ const Navbar = () => {
           </li>
         </ul>
       </div>
-
-      <p className="flow-text">I am Flow Text</p>
     </nav>
   );
 };
