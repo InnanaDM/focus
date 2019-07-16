@@ -1,5 +1,5 @@
 import React from "react";
-
+import "src/components/Cards/cards.css";
 // import "./src/components/Cards/cards.css";
 
 const Cards = () => {
